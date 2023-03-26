@@ -172,7 +172,6 @@ a:hover{
     margin-bottom: var(--bottom-margin);
 }
 
-
 .project-card{
     background-color: #fff;
     border-radius: 11px;
@@ -360,3 +359,8 @@ footer {
         max-width: 17.75rem;
     }
 }
+
+
+
+
+
